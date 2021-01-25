@@ -1,0 +1,93 @@
+body {
+	background-color: #FFFFFF;
+	color: #fff;
+/*	background-image: url(../images/yellow-circles.svg);*/
+	background-size: 800px 800px;
+	background-position: left -440px top -240px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #F3CB02;
+}
+
+#eventname {
+        color: #000000;
+        font-size: 32px;
+        font-size: 200%;
+        position: absolute;
+        top: 23%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+}
+
+#sessionname {
+        color: #000000;
+        font-size: 32px;
+        font-size: 200%;
+        position: absolute;
+        top: 18%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+}
+
+#luckyperson {
+	color: #000000;
+	font-size: 32px;
+	background-color: #03C04A;
+	 position: absolute;
+        top: 48%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+}
+
+#drawhistory{
+	color: #000000;
+	font-size: 32px;
+	text-align:center;
+/*	background-color: #03C04A;*/
+	 position: absolute;
+        top: 62%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+
+}
+
+#tombol{
+		font-size: 150%;
+		font-weight: bold;
+		border: 1px solid orange ;
+ 		background-color: orange;
+ 		height: 50px;
+ 		width: 100px;
+		position: absolute;
+        top: 33%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+}
+
+#motor{
+	color: #000000;
+	font-size: 32px;
+/*	background-color: #03C04A;*/
+	 position: absolute;
+        top: 42%;
+        left: 50%;
+        -ms-transform: translateX(-50) translateY(-50);
+        	-webkit-transform; translate(-50%,-50%);
+        	transform: translate(-50%,-50%);
+}
+
+
